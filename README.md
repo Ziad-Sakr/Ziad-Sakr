@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ziad-Sakr
-- 👀 I’m interested in Cyber Security , Robotics & Programming
-- 🌱 I’m currently learning Penetration Testing
+- 👀 I’m interested in Cyber Security , IOT, Robotics & Programming
+- 🌱 I’m currently learning Penetration Testing & IOT Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 You Can reach on me My Facebook Acc : https://www.facebook.com/ziad.sakr.5245
                          My Twitter  Acc : https://twitter.com/ZiadSakr14
